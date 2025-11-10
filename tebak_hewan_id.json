@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nama": "kucing",
+    "kategori": "mamalia",
+    "petunjuk": "Biasanya peliharaan, suka mengeong dan menangkap tikus."
+  },
+  {
+    "id": 2,
+    "nama": "anjing",
+    "kategori": "mamalia",
+    "petunjuk": "Setia pada pemilik, sering menggonggong."
+  },
+  {
+    "id": 3,
+    "nama": "singa",
+    "kategori": "mamalia",
+    "petunjuk": "Dikenal sebagai 'raja hutan'."
+  },
+  {
+    "id": 4,
+    "nama": "harimau",
+    "kategori": "mamalia",
+    "petunjuk": "Bercorak belang, pemangsa besar."
+  },
+  {
+    "id": 5,
+    "nama": "gajah",
+    "kategori": "mamalia",
+    "petunjuk": "Berkuping besar dan mempunyai belalai panjang."
+  },
+  {
+    "id": 6,
+    "nama": "orangutan",
+    "kategori": "mamalia",
+    "petunjuk": "Primata merah yang hidup di hutan Kalimantan dan Sumatra."
+  },
+  {
+    "id": 7,
+    "nama": "komodo",
+    "kategori": "reptil",
+    "petunjuk": "Kadaluarsa besar dari Indonesia, hidup di beberapa pulau NTT."
+  },
+  {
+    "id": 8,
+    "nama": "rusa",
+    "kategori": "mamalia",
+    "petunjuk": "Berekor pendek, sering ditemukan di hutan dan padang rumput."
+  },
+  {
+    "id": 9,
+    "nama": "kambing",
+    "kategori": "mamalia",
+    "petunjuk": "Sering dipelihara untuk susu dan daging, berkuku belah."
+  },
+  {
+    "id": 10,
+    "nama": "sapi",
+    "kategori": "mamalia",
+    "petunjuk": "Memberikan susu dan daging, berkuku belah."
+  },
+  {
+    "id": 11,
+    "nama": "kuda",
+    "kategori": "mamalia",
+    "petunjuk": "Digunakan untuk tunggangan dan transportasi tradisional."
+  },
+  {
+    "id": 12,
+    "nama": "bebek",
+    "kategori": "unggas",
+    "petunjuk": "Berenang di air dan mengeluarkan suara 'kwek'."
+  },
+  {
+    "id": 13,
+    "nama": "ayam",
+    "kategori": "unggas",
+    "petunjuk": "Sumber telur dan daging, peternakan umum."
+  },
+  {
+    "id": 14,
+    "nama": "elang",
+    "kategori": "burung",
+    "petunjuk": "Burung pemangsa besar dengan penglihatan tajam."
+  },
+  {
+    "id": 15,
+    "nama": "kasuari",
+    "kategori": "burung",
+    "petunjuk": "Burung besar berleher pendek dari Papua, berwarna cerah."
+  },
+  {
+    "id": 16,
+    "nama": "badak",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia besar bercula di hidung."
+  },
+  {
+    "id": 17,
+    "nama": "kancil",
+    "kategori": "mamalia",
+    "petunjuk": "Binatang kecil yang sering muncul dalam dongeng Melayu."
+  },
+  {
+    "id": 18,
+    "nama": "monyet",
+    "kategori": "mamalia",
+    "petunjuk": "Primata lincah yang sering terlihat di pohon."
+  },
+  {
+    "id": 19,
+    "nama": "kera",
+    "kategori": "mamalia",
+    "petunjuk": "Primata yang sering tinggal berkelompok dan makan buah."
+  },
+  {
+    "id": 20,
+    "nama": "ikan hiu",
+    "kategori": "ikan",
+    "petunjuk": "Ikan predator besar yang hidup di laut."
+  },
+  {
+    "id": 21,
+    "nama": "paus",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia laut raksasa yang bernapas dengan paru-paru."
+  },
+  {
+    "id": 22,
+    "nama": "lumba-lumba",
+    "kategori": "mamalia",
+    "petunjuk": "Cerdas, sering melompat di permukaan laut."
+  },
+  {
+    "id": 23,
+    "nama": "ular",
+    "kategori": "reptil",
+    "petunjuk": "Berkekwatan panjang tanpa kaki."
+  },
+  {
+    "id": 24,
+    "nama": "kura-kura",
+    "kategori": "reptil",
+    "petunjuk": "Memiliki cangkang yang melindungi tubuhnya."
+  },
+  {
+    "id": 25,
+    "nama": "penyu",
+    "kategori": "reptil",
+    "petunjuk": "Reptil laut yang bertelur di pantai."
+  },
+  {
+    "id": 26,
+    "nama": "kupu-kupu",
+    "kategori": "serangga",
+    "petunjuk": "Serangga bersayap yang indah, mengalami metamorfosis."
+  },
+  {
+    "id": 27,
+    "nama": "lebah",
+    "kategori": "serangga",
+    "petunjuk": "Membuat madu dan dapat menyengat."
+  },
+  {
+    "id": 28,
+    "nama": "semut",
+    "kategori": "serangga",
+    "petunjuk": "Hewan kecil hidup berkoloni dan bekerja sama."
+  },
+  {
+    "id": 29,
+    "nama": "belalang",
+    "kategori": "serangga",
+    "petunjuk": "Serangga melompat yang sering ditemukan di ladang."
+  },
+  {
+    "id": 30,
+    "nama": "cicak",
+    "kategori": "reptil",
+    "petunjuk": "Kadal kecil yang sering menempel di dinding rumah."
+  },
+  {
+    "id": 31,
+    "nama": "tokek",
+    "kategori": "reptil",
+    "petunjuk": "Kadal yang sering mengeluarkan suara 'tokek' di malam hari."
+  },
+  {
+    "id": 32,
+    "nama": "katak",
+    "kategori": "amfibi",
+    "petunjuk": "Hewan amfibi yang sering melompat dan bersuara 'krok'."
+  },
+  {
+    "id": 33,
+    "nama": "kodok",
+    "kategori": "amfibi",
+    "petunjuk": "Mirip katak tapi umumnya lebih gemuk."
+  },
+  {
+    "id": 34,
+    "nama": "kelinci",
+    "kategori": "mamalia",
+    "petunjuk": "Memiliki telinga panjang dan suka mengunyah wortel."
+  },
+  {
+    "id": 35,
+    "nama": "babi",
+    "kategori": "mamalia",
+    "petunjuk": "Hewan ternak dengan moncong pendek, sering digembalakan."
+  },
+  {
+    "id": 36,
+    "nama": "burung kakatua",
+    "kategori": "burung",
+    "petunjuk": "Burung pintar yang bisa meniru suara manusia."
+  },
+  {
+    "id": 37,
+    "nama": "jalak",
+    "kategori": "burung",
+    "petunjuk": "Burung penyanyi yang populer dipelihara."
+  },
+  {
+    "id": 38,
+    "nama": "cendrawasih",
+    "kategori": "burung",
+    "petunjuk": "Burung eksotis dari Papua dengan bulu yang indah."
+  },
+  {
+    "id": 39,
+    "nama": "anoa",
+    "kategori": "mamalia",
+    "petunjuk": "Kerbau kecil khas Sulawesi dan Papua."
+  },
+  {
+    "id": 40,
+    "nama": "babirusa",
+    "kategori": "mamalia",
+    "petunjuk": "Babi hutan unik dari Sulawesi dengan taring melengkung."
+  },
+  {
+    "id": 41,
+    "nama": "tapir",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia dengan moncong panjang seperti belalai kecil."
+  },
+  {
+    "id": 42,
+    "nama": "luwak",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia nokturnal yang memakan buah, terkenal karena kopi luwak."
+  },
+  {
+    "id": 43,
+    "nama": "musang",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia kecil pemakan buah, sering aktif malam hari."
+  },
+  {
+    "id": 44,
+    "nama": "tarsius",
+    "kategori": "mamalia",
+    "petunjuk": "Primata kecil bermata besar, ditemukan di Sulawesi."
+  },
+  {
+    "id": 45,
+    "nama": "banteng",
+    "kategori": "mamalia",
+    "petunjuk": "Kerbau liar yang hidup di wilayah Asia Tenggara."
+  },
+  {
+    "id": 46,
+    "nama": "elang jawa",
+    "kategori": "burung",
+    "petunjuk": "Elang endemik Pulau Jawa, termasuk satwa dilindungi."
+  },
+  {
+    "id": 47,
+    "nama": "burung merak",
+    "kategori": "burung",
+    "petunjuk": "Dikenal dengan ekor panjang dan warna yang mencolok."
+  },
+  {
+    "id": 48,
+    "nama": "ikan paus sperma",
+    "kategori": "mamalia",
+    "petunjuk": "Paus besar yang sering berburu cumi-cumi di kedalaman."
+  },
+  {
+    "id": 49,
+    "nama": "ikan pari",
+    "kategori": "ikan",
+    "petunjuk": "Ikan datar yang sering ditemukan di dasar laut."
+  },
+  {
+    "id": 50,
+    "nama": "tuna",
+    "kategori": "ikan",
+    "petunjuk": "Ikan laut cepat yang sering dikonsumsi manusia."
+  },
+  {
+    "id": 51,
+    "nama": "kakatua raja",
+    "kategori": "burung",
+    "petunjuk": "Kakatua besar dengan jambul mencolok."
+  },
+  {
+    "id": 52,
+    "nama": "kuda nil",
+    "kategori": "mamalia",
+    "petunjuk": "Hewan besar yang hidup dekat air, berbahaya jika terganggu."
+  },
+  {
+    "id": 53,
+    "nama": "serigala",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia karnivora yang hidup berkelompok (ruber)."
+  },
+  {
+    "id": 54,
+    "nama": "rubah",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia licik yang sering muncul dalam cerita rakyat."
+  },
+  {
+    "id": 55,
+    "nama": "beruang",
+    "kategori": "mamalia",
+    "petunjuk": "Mamalia besar yang bisa memanjat dan mencari madu."
+  },
+  {
+    "id": 56,
+    "nama": "kakatua kecil",
+    "kategori": "burung",
+    "petunjuk": "Burung paruh bengkok sering dipelihara."
+  },
+  {
+    "id": 57,
+    "nama": "burung kolibri",
+    "kategori": "burung",
+    "petunjuk": "Burung kecil yang bisa mengapung saat mengepakkan sayap."
+  },
+  {
+    "id": 58,
+    "nama": "semut rangrang",
+    "kategori": "serangga",
+    "petunjuk": "Jenis semut besar yang sering membuat sarang di tanah."
+  },
+  {
+    "id": 59,
+    "nama": "badak jawa",
+    "kategori": "mamalia",
+    "petunjuk": "Badak kecil yang secara kritis terancam punah, hidup di Ujung Kulon."
+  },
+  {
+    "id": 60,
+    "nama": "kupu-kupu raja",
+    "kategori": "serangga",
+    "petunjuk": "Kupu-kupu besar dan indah."
+  }
+]
